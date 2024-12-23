@@ -3,10 +3,10 @@ Data analysis report for a food delivery app
 
 The data from three different sheets have been merged with some postprocessing steps in python
 
-Data insights and trends have been noted down.
 Link to powerbi report with visualizations with three 3 integral visualizations.
-Business recommendations have also been given.
+[https://app.powerbi.com/groups/me/reports/159b2fb9-8090-44c8-9294-12fb733e8879/4affc361d20073b67db0?experience=power-bi]
 
+Data Insights and Business Recommendations
 Insights
 1)Spaghetti was the most ordered dish with 4 orders tottaly.Grilled chicken having the same count but has been cancelled 
 2)Dinner was the time meal type that was ordered the most.
